@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "193287038807",
+    "firebase_url": "https://final-dac05-default-rtdb.firebaseio.com",
+    "project_id": "final-dac05",
+    "storage_bucket": "final-dac05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193287038807:android:879c0cc7efdd1134cf4012",
+        "android_client_info": {
+          "package_name": "com.piyal.noteappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193287038807-rf7aa6jeajit2jscal9e0t45jk978vnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO7T192i9gaRirbN8DKNykYMvJyS_g68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193287038807-rf7aa6jeajit2jscal9e0t45jk978vnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193287038807:android:f7d19b5daa708ccacf4012",
+        "android_client_info": {
+          "package_name": "com.piyal.noteappfirebasewithmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193287038807-rf7aa6jeajit2jscal9e0t45jk978vnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnO7T192i9gaRirbN8DKNykYMvJyS_g68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193287038807-rf7aa6jeajit2jscal9e0t45jk978vnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
