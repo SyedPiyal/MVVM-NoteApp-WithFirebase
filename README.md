@@ -1,4 +1,4 @@
-# NotateX App: Your Ultimate Note-Taking Companion
+# NotateX : Your Ultimate Note-Taking Companion
 
 Welcome to NotateX, a powerful and user-friendly note-taking app built for Android. With seamless integration of Firebase for database and authentication, NotateX enhances your productivity by allowing you to organize your thoughts, tasks, and ideas effortlessly. Embracing the MVVM architecture, HILT for dependency injection, and Kotlin Coroutines for efficient asynchronous programming, NotateX offers a smooth and reliable experience.
 
